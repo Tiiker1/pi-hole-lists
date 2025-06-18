@@ -1,64 +1,65 @@
 # Suomalaiset mediatalot
-0.0.0.0 ads.sanoma.fi
-0.0.0.0 tracking.sanoma.fi
-0.0.0.0 pixel.sanoma.fi
-0.0.0.0 ads.iltalehti.fi
-0.0.0.0 tracking.iltalehti.fi
-0.0.0.0 adengine.iltasanomat.fi
-0.0.0.0 analytics.hs.fi
-0.0.0.0 aimtracking.almamedia.fi
-0.0.0.0 analytics.kaleva.fi
-0.0.0.0 ads.kaleva.fi
-0.0.0.0 adserver.a-lehdet.fi
-0.0.0.0 mtvstatics.mtv.fi
-0.0.0.0 reklama.mtvuutiset.fi
-0.0.0.0 pixel.dnainternet.fi
-0.0.0.0 media.investor.fi
+ads.sanoma.fi
+tracking.sanoma.fi
+pixel.sanoma.fi
+ads.iltalehti.fi
+tracking.iltalehti.fi
+adengine.iltasanomat.fi
+analytics.hs.fi
+aimtracking.almamedia.fi
+analytics.kaleva.fi
+ads.kaleva.fi
+adserver.a-lehdet.fi
+mtvstatics.mtv.fi
+reklama.mtvuutiset.fi
+pixel.dnainternet.fi
+media.investor.fi
 
 # Suomalaiset verkkokaupat & palvelut
-0.0.0.0 analytics.verkkokauppa.com
-0.0.0.0 tracker.rautakirja.fi
-0.0.0.0 bannerit.citydigital.fi
-0.0.0.0 track.netrauta.fi
-0.0.0.0 ads.op.fi
-0.0.0.0 campaigndomain.example.fi
+analytics.verkkokauppa.com
+tracker.rautakirja.fi
+bannerit.citydigital.fi
+track.netrauta.fi
+ads.op.fi
+campaigndomain.example.fi
 
 # Suositut kansainväliset mainosverkostot
-0.0.0.0 static.adform.net
-0.0.0.0 track.adform.net
-0.0.0.0 cdn.inmobi.com
-0.0.0.0 googletagmanager.com
-0.0.0.0 google-analytics.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 doubleclick.net
-0.0.0.0 adservice.google.fi
-0.0.0.0 ads.yahoo.com
-0.0.0.0 ads.twitter.com
-0.0.0.0 ads.linkedin.com
-0.0.0.0 ads.facebook.com
-0.0.0.0 pixel.facebook.com
+static.adform.net
+track.adform.net
+cdn.inmobi.com
+googletagmanager.com
+google-analytics.com
+pagead2.googlesyndication.com
+securepubads.g.doubleclick.net
+doubleclick.net
+adservice.google.fi
+ads.yahoo.com
+ads.twitter.com
+ads.linkedin.com
+ads.facebook.com
+pixel.facebook.com
 
 # Seuranta- ja analytiikkadomainit
-0.0.0.0 tns-aim.com
-0.0.0.0 analytics.example.com
-0.0.0.0 tracking.example.com
+tns-aim.com
+analytics.example.com
+tracking.example.com
 
 # Consent- & evästeseuranta
-0.0.0.0 consent.trustarc.com
-0.0.0.0 consent.cookiebot.com
-0.0.0.0 cdn.cookieconsent.com
+consent.trustarc.com
+consent.cookiebot.com
+cdn.cookieconsent.com
 
 # Mahdolliset lokalisointiyritykset
-0.0.0.0 weatherapi.local
-0.0.0.0 tracking.localnews
+weatherapi.local
+tracking.localnews
 
-#Googlen doubleclick josta useampi suomalainen mainos on peräisin
-0.0.0.0 s0.2mdn.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 static.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 g.doubleclick.net
-0.0.0.0 doubleclick.net
+# Googlen doubleclick josta useampi suomalainen mainos on peräisin
+s0.2mdn.net
+ad.doubleclick.net
+googleads.g.doubleclick.net
+static.doubleclick.net
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+g.doubleclick.net
+doubleclick.net
+
