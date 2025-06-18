@@ -52,3 +52,13 @@
 # Mahdolliset lokalisointiyritykset
 0.0.0.0 weatherapi.local
 0.0.0.0 tracking.localnews
+
+#Googlen doubleclick josta useampi suomalainen mainos on peräisin
+0.0.0.0 s0.2mdn.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 g.doubleclick.net
+0.0.0.0 doubleclick.net
