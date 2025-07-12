@@ -39,84 +39,32 @@ metrics.amazonaws.com
 telemetry.amazon.com
 device-metrics-us.amazon.com
 
-# Zoom AI
-zoom.us
-st1.zoom.us
-st2.zoom.us
-zoomgov.com
-us04web.zoom.us
-
 # TikTok AI & analytics
 api.tiktok.com
 log.byteoversea.com
 mon.byteoversea.com
 
-# Discord telemetry & analytics
-discordapp.com
-metrics.discord.com
-track.discord.com
-api.amplitude.com
-
-# Spotify AI and analytics
-spclient.wg.spotify.com
-audio-ak-spotify-com.akamaized.net
-analytics.spotify.com
-
-# Apple telemetry
-guzzoni.apple.com
-siri.apple.com
-init.itunes.apple.com
-xp.apple.com
-feedbackws.fe.apple.com
-
-# Nvidia AI Telemetry
-telemetry.nvidia.com
-gfwsl.geforce.com
-gfe.nvidia.com
-
-# Open telemetry project tracking
-otel.io
-api.opentelemetry.io
-
-# Google Analytics & Ads
+# General Analytics & Tracking
 google-analytics.com
 ssl.google-analytics.com
 analytics.google.com
 pagead2.googlesyndication.com
 adservice.google.com
 ads.google.com
-
-# Facebook / Meta Tracking
 connect.facebook.net
 facebook.net
 ads.facebook.com
-
-# Cloudflare Analytics
 static.cloudflareinsights.com
-
-# Hotjar
 in.hotjar.com
 vc.hotjar.io
-
-# Mixpanel
 api.mixpanel.com
-
-# Segment
 cdn.segment.com
 api.segment.io
-
-# Amplitude
 api.amplitude.com
-
-# Adobe Analytics
-omtrdc.net
 adobedc.net
 demdex.net
-
-# Appsflyer
+omtrdc.net
 appsflyer.com
 events.appsflyer.com
-
-# TikTok pixel
 analytics.tiktok.com
 business.tiktok.com
