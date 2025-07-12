@@ -1,0 +1,122 @@
+# OpenAI
+api.openai.com
+auth0.openai.com
+oaiusercontent.com
+
+# Anthropic
+api.anthropic.com
+
+# Google AI & telemetry
+ai.google
+bard.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+sandbox.google.com
+www-googletagmanager.l.google.com
+www-google-analytics.l.google.com
+
+# Microsoft AI & telemetry
+api.cognitive.microsoft.com
+telemetry.microsoft.com
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+watson.telemetry.microsoft.com
+watson.ppe.telemetry.microsoft.com
+
+# Meta (Facebook) AI/ML & tracking
+graph.facebook.com
+api.facebook.ai
+oculus.com
+facebook-analytics.com
+
+# Amazon AI & telemetry
+metrics.amazonaws.com
+telemetry.amazon.com
+device-metrics-us.amazon.com
+
+# Zoom AI
+zoom.us
+st1.zoom.us
+st2.zoom.us
+zoomgov.com
+us04web.zoom.us
+
+# TikTok AI & analytics
+api.tiktok.com
+log.byteoversea.com
+mon.byteoversea.com
+
+# Discord telemetry & analytics
+discordapp.com
+metrics.discord.com
+track.discord.com
+api.amplitude.com
+
+# Spotify AI and analytics
+spclient.wg.spotify.com
+audio-ak-spotify-com.akamaized.net
+analytics.spotify.com
+
+# Apple telemetry
+guzzoni.apple.com
+siri.apple.com
+init.itunes.apple.com
+xp.apple.com
+feedbackws.fe.apple.com
+
+# Nvidia AI Telemetry
+telemetry.nvidia.com
+gfwsl.geforce.com
+gfe.nvidia.com
+
+# Open telemetry project tracking
+otel.io
+api.opentelemetry.io
+
+# Google Analytics & Ads
+google-analytics.com
+ssl.google-analytics.com
+analytics.google.com
+pagead2.googlesyndication.com
+adservice.google.com
+ads.google.com
+
+# Facebook / Meta Tracking
+connect.facebook.net
+facebook.net
+ads.facebook.com
+
+# Cloudflare Analytics
+static.cloudflareinsights.com
+
+# Hotjar
+in.hotjar.com
+vc.hotjar.io
+
+# Mixpanel
+api.mixpanel.com
+
+# Segment
+cdn.segment.com
+api.segment.io
+
+# Amplitude
+api.amplitude.com
+
+# Adobe Analytics
+omtrdc.net
+adobedc.net
+demdex.net
+
+# Appsflyer
+appsflyer.com
+events.appsflyer.com
+
+# TikTok pixel
+analytics.tiktok.com
+business.tiktok.com
