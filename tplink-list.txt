@@ -1,0 +1,15 @@
+(^|\.)safethings\.avira\.com$
+(^|\.)homesafe\.avira\.com$
+(^|\.)tplinkcloud\.com$
+(^|\.)tplinkra\.com$
+(^|\.)url\.trendmicro\.com$
+
+ast.safethings.avira.com
+ds.safethings.avira.com
+api.tplinkra.com
+n-deventry.tplinkcloud.com
+homesafe.avira.com
+telemetry.tplinkcloud.com
+tplinkra.com
+trendmicro.com
+url.trendmicro.com
