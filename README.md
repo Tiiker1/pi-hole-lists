@@ -1,2 +1,3 @@
 # fin-pihole-list
-pihole blocklist aiming to block finnish adds and other harmful sites without limiting functionality of using internet
+This repo is planned to host pihole blocklists.
+There will be different type of blocklists for different purposes.
