@@ -75,4 +75,34 @@ app.bugsnag.com
 browser.sentry-cdn.com
 app.getsentry.com
 
+#Facebook
+pixel.facebook.com
+an.facebook.com
+
+#Linkedin
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+
+#Twitter/x
+static.ads-twitter.com
+ads-api.twitter.com
+
+#Reddit
+events.reddit.com
+events.redditmedia.com
+
+#Pinterest
+ads.pinterest.com
+log.pinterest.com
+analytics.pinterest.com
+trk.pinterest.com
+
+#tiktok
+ads-api.tiktok.com
+analytics.tiktok.com
+ads-sg.tiktok.com
+analytics-sg.tiktok.com
+business-api.tiktok.com
+ads.tiktok.com
+log.byteoversea.com
 
