@@ -6,6 +6,8 @@ advice-ads.s3.amazonaws.com
 aax-us-east.amazon-adsystem.com
 fls-na.amazon.com
 assoc-amazon.com
+ad.doubleverify.com
+amzn.to
 
 #Google
 pagead2.googlesyndication.com
@@ -19,6 +21,8 @@ ssl.google-analytics.com
 doubleclick.com
 adwords.google.com
 partnerad.l.doubleclick.net
+pagead.google.com
+googlesyndication.com
 
 #Doubleclick.net
 stats.g.doubleclick.net
@@ -28,6 +32,8 @@ m.doubleclick.net
 mediavisor.doubleclick.net
 cm.g.doubleclick.net
 adnexus.net
+adclick.g.doubleclick.net
+googleadservices.com
 
 #Adcolony
 ads30.adcolony.com
@@ -36,12 +42,15 @@ events3alt.adcolony.com
 wd.adcolony.com
 ads.adcolony.com
 api.adcolony.com
+launch.adcolony.com
+analytics.adcolony.com
 
 #Media.net
 static.media.net
 media.net
 adservetx.media.net
 ads.media.net
+cdn.media.net
 
 #Hotjar
 adm.hotjar.com
@@ -52,6 +61,8 @@ surveys.hotjar.com
 careers.hotjar.com
 events.hotjar.io
 track.hotjar.com
+metrics.hotjar.com
+feedback.hotjar.com
 
 #MouseFlow
 app.mouseflow.com
@@ -62,12 +73,14 @@ gtm.mouseflow.com
 api.mouseflow.com
 tools.mouseflow.com
 cdn-test.mouseflow.com
+track.mouseflow.com
 
 #FreshWorks
 freshmarketer.com
 claritybt.freshmarketer.com
 fwtracks.freshmarketer.com
 tracking.freshworks.com
+fw-analytics.freshworks.com
 
 #LuckyOrange
 luckyorange.com
@@ -79,17 +92,21 @@ upload.luckyorange.net
 cs.luckyorange.net
 settings.luckyorange.net
 tracker.luckyorange.com
+metrics.luckyorange.com
 
 #Bugsnag
 notify.bugsnag.com
 sessions.bugsnag.com
 api.bugsnag.com
 app.bugsnag.com
+errors.bugsnag.com
+monitor.bugsnag.com
 
 #Sentry
 browser.sentry-cdn.com
 app.getsentry.com
 sentry.io
+cdn.sentry.io
 
 #Facebook
 pixel.facebook.com
@@ -101,16 +118,22 @@ connect.facebook.net
 ads.linkedin.com
 px.ads.linkedin.com
 analytics.pointdrive.linkedin.com
+dc.ads.linkedin.com
+analytics.linkedin.com
 
 #Twitter/x
 static.ads-twitter.com
 ads-api.twitter.com
 analytics.twitter.com
+t.co
+syndication.twitter.com
 
 #Reddit
 events.reddit.com
 events.redditmedia.com
 pixel.reddit.com
+redditmetrics.com
+r.mtg.reddit.com
 
 #Pinterest
 ads.pinterest.com
@@ -118,6 +141,8 @@ log.pinterest.com
 analytics.pinterest.com
 trk.pinterest.com
 ct.pinterest.com
+analytics.pinterest.net
+ads.pinterest.net
 
 #tiktok
 ads-api.tiktok.com
@@ -129,3 +154,35 @@ ads.tiktok.com
 log.byteoversea.com
 analytics.byteoversea.com
 ads.tiktokglobalshop.com
+tiktokv.com
+log.tiktokv.com
+
+#Snapchat
+sc-trk.com
+tr.snapchat.com
+adsapi.snapchat.com
+
+#Spotify
+ads-fa.spotify.com
+analytics.spotify.com
+ads.spotify.com
+
+#AppLovin
+api.applovin.com
+ads.applovin.com
+track.applovin.com
+
+#Unity Ads
+webgl.unityads.unity3d.com
+ads.unity.com
+analytics.unityads.unity3d.com
+
+#IronSource
+ads.ironsrc.com
+analytics.ironsrc.com
+cdn.ironsrc.com
+
+#AdMob
+admob.com
+ads.admob.com
+analytics.admob.com
