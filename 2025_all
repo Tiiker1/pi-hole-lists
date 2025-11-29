@@ -41,6 +41,8 @@ cm.g.doubleclick.net
 adnexus.net
 adclick.g.doubleclick.net
 googleadservices.com
+adclick2.g.doubleclick.net
+adtrack.doubleclick.net
 
 #Adcolony
 ads30.adcolony.com
@@ -51,6 +53,8 @@ ads.adcolony.com
 api.adcolony.com
 launch.adcolony.com
 analytics.adcolony.com
+ads2.adcolony.com
+events.adcolony.com
 
 #Media.net
 static.media.net
@@ -58,8 +62,10 @@ media.net
 adservetx.media.net
 ads.media.net
 cdn.media.net
+track.media.net
 
 #Hotjar
+api.hotjar.com
 adm.hotjar.com
 identify.hotjar.com
 insights.hotjar.com
@@ -72,6 +78,7 @@ metrics.hotjar.com
 feedback.hotjar.com
 
 #MouseFlow
+cdn2.mouseflow.com
 app.mouseflow.com
 mouseflow.com
 cdn.mouseflow.com
@@ -88,6 +95,7 @@ claritybt.freshmarketer.com
 fwtracks.freshmarketer.com
 tracking.freshworks.com
 fw-analytics.freshworks.com
+fw-events.freshworks.com
 
 #LuckyOrange
 luckyorange.com
@@ -100,6 +108,7 @@ cs.luckyorange.net
 settings.luckyorange.net
 tracker.luckyorange.com
 metrics.luckyorange.com
+events.luckyorange.com
 
 #Bugsnag
 notify.bugsnag.com
@@ -108,12 +117,14 @@ api.bugsnag.com
 app.bugsnag.com
 errors.bugsnag.com
 monitor.bugsnag.com
+dashboard.bugsnag.com
 
 #Sentry
 browser.sentry-cdn.com
 app.getsentry.com
 sentry.io
 cdn.sentry.io
+get.sentry.io
 
 #Facebook
 pixel.facebook.com
@@ -127,6 +138,8 @@ px.ads.linkedin.com
 analytics.pointdrive.linkedin.com
 dc.ads.linkedin.com
 analytics.linkedin.com
+linkedin.com/px
+linkedin.com/analytics
 
 #Twitter/x
 static.ads-twitter.com
