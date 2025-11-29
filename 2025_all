@@ -64,3 +64,15 @@ w1.luckyorange.com
 upload.luckyorange.net
 cs.luckyorange.net
 settings.luckyorange.net
+
+#Bugsnag
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+
+#Sentry
+browser.sentry-cdn.com
+app.getsentry.com
+
+
